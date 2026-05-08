@@ -17,4 +17,4 @@ A simple Python-based finance tracker that allows users to record income and exp
 - Pytest
 
 ## Authors
-kx304 & mv559
+Mike Vel
